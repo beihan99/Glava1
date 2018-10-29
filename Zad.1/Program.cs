@@ -7,7 +7,7 @@ namespace Zad._5
     {
         static void Main()
         {
-            Console.WriteLine(" Добър ден !");
+            Console.WriteLine(" Добър ден !!!");
         }
     }
 }
