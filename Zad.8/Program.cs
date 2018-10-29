@@ -1,13 +1,15 @@
 ﻿using System;
 
 
-namespace Zad._5
+namespace Zad._8
 {
     class Program
     {
         static void Main()
         {
-            Console.WriteLine(" Добър ден !");
+            DateTime d = DateTime.Now;
+            Console.WriteLine(d);
+
         }
     }
 }

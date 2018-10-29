@@ -1,13 +1,13 @@
 ﻿using System;
 
 
-namespace Zad._5
+namespace Zad._6
 {
     class Program
     {
         static void Main()
         {
-            Console.WriteLine(" Добър ден !");
+            Console.WriteLine(" Beihan Topchiev");
         }
     }
 }
