@@ -7,7 +7,7 @@ namespace Zad._4
     {
         static void Main()
         {
-            Console.WriteLine(" Hello C# !");
+            Console.WriteLine(" Hello C# !!!");
         }
     }
 }
