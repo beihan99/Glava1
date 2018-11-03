@@ -1,4 +1,7 @@
-﻿using System;
+﻿
+// Да се намери описанието на метода System.Console.WriteLine() с различ­ните негови възможни параметри в MSDN Library.
+
+using System;
 
 
 namespace Zad._3

@@ -1,4 +1,7 @@
-﻿using System;
+﻿
+// Опишете разликите между C# и .NET Framework.
+
+using System;
 
 
 namespace Zad._12

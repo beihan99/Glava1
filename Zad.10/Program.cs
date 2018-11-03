@@ -1,4 +1,7 @@
-﻿using System;
+﻿
+// Напишете програма, която извежда първите 100 члена на редицата 2,  -3, 4, -5, 6, -7, 8.
+
+using System;
 
 
 namespace Zad._10
@@ -15,7 +18,7 @@ namespace Zad._10
                 }
                 else
                 {
-                    Console.WriteLine("{0}", -i);
+                    Console.WriteLine(-i);
                 }
             }
         }

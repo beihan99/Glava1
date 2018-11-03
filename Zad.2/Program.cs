@@ -1,4 +1,7 @@
-﻿using System;
+﻿
+//  Да се намери описанието на класа System.Console в стандартната .NET API документация (MSDN Library).
+
+using System;
 
 
 namespace Zad._2
